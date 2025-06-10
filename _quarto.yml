@@ -1,0 +1,40 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "Jaylin Lowe"
+  navbar:
+    left:
+      - text: "Education"
+        href: "#education"
+      - text: "Publications"
+        href: "#publications"
+      - text: "Talks and Posters"
+        href: "#talks_and_posters"
+      - text: "Teaching"
+        href: "#teaching"
+      - text: "Service"
+        href: "#service"
+      - text: "Awards"
+        href: "#awards"
+
+format:
+  html:
+    theme: 
+      light: flatly
+      dark: darkly
+    css: styles.css
+    toc: false
+    fontsize: 10pt
+    page-layout: full
+    left-margin: 0px
+    grid:
+      sidebar-width: 0px
+      gutter-width: 0px
+      body-width: 950px
+      margin-width: 350px
+      
+
+editor: visual
+

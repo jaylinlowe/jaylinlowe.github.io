@@ -1,0 +1,78 @@
+---
+title: "Jaylin Lowe"
+image: department_picture.png
+leftsize: 3
+about: 
+  template: trestles
+  image-shape: round
+  image-width: 10em
+  links: 
+    - text: LinkedIn
+      href: https://www.linkedin.com/in/jaylin-lowe-carleton2021/
+    - text: Github
+      href: https://github.com/jaylinlowe
+    - text: Email
+      href: mailto::jaylincl@umich.edu
+---
+
+<p style = "font-size: 18px;">Hello! I am a fourth-year PhD student in the Statistics Department at the University of Michigan advised by Johann Gagnon-Bartsch. My research interests are broadly in survey statistics and casual inference, particularly in integrating auxiliary observational data sets with randomized datasets. I am interested primarily in applications to the social sciences, particularly education. Outside of work, I enjoy board games, baking, and swimming. </p>
+
+# Education 
+
+PhD in Statistics \| University of Michigan \| <span class="text-secondary"> 2022-Present </span>
+
+M.A. in Statistics \| University of Michigan \| <span class="text-secondary"> 2022-2025 </span>
+
+B.A. in Statistics \| Carleton College \| <span class="text-secondary"> 2017-2021 </span>
+
+# Publications  {#publications}
+
+#### **Power Calculations for Randomized Controlled Trials with Auxiliary Observational Data**
+
+<span class="text-secondary">Educational Data Mining, 2024 Proceedings</span>
+
+<span class="text-secondary">Jaylin Lowe, Charlotte Mann, Jiaying Wang, Adam Sales, Johann Gagnon-Bartsch</span>
+
+<a href="files/edm_paper.pdf" class="btn btn-primary" target="_blank">PDF</a> &nbsp; <a href="https://github.com/jaylinlowe/dRCTpower" class="btn btn-primary" target="_blank">R Shiny</a>
+
+# Talks and Posters  {#talks_and_posters}
+
+#### **Power Calculations for Randomized Controlled Trials with Auxiliary Observational Data**
+
+<span class="text-secondary">Michigan Student Symposium for Interdisciplinary Statistical Sciences (Feb 2025) and Joint Statistical Meetings (Aug 2024)</span>
+
+<span class="text-secondary">Jaylin Lowe, Charlotte Mann, Jiaying Wang, Adam Sales, Johann Gagnon-Bartsch</span>
+
+<a href="files/mssiss_slides.pdf" class="btn btn-primary" target="_blank">MSSISS Slides</a> &nbsp; <a href="files/jsm_poster_web.pdf" class="btn btn-primary" target="_blank">JSM Poster</a>
+
+#### **Tools for Planning and Analyzing Randomized Controlled Trials & A/B Tests**
+
+<span class="text-secondary">Educational Data Mining, Half Day Tutorial (July 2024)</span>
+
+<span class="text-secondary">Adam Sales, Johann Gagnon-Bartsch, Duy Pham, Charlotte Mann, Jaylin Lowe</span>
+
+<a href="files/edm_tutorial.pdf" class="btn btn-primary" target="_blank">Slides</a>
+
+# Teaching  {#teaching}
+
+STATS 604 - Statistical Practice <span class="text-secondary"> (Sept. 2024 - Dec. 2024) </span>
+
+STATS 470 - Introduction to the Design of Experiments <span class="text-secondary"> (Jan. 2024 - May 2024) </span>
+
+STATS 306 - Introduction to Statistical Computing <span class="text-secondary"> (Jan. 2023 - May 2023) </span>
+
+STATS 250 - Introduction to Statistics and Data Science <span class="text-secondary"> (Sept. 2022 - Dec. 2022) </span>
+
+# Service  {#service}
+
+PhD Student Council Recruitment Committee Co-Chair <span class="text-secondary"> (Sept. 2024 - Present) </span>
+
+Graduate Student Mentor to Graduate Student Instructors <span class="text-secondary"> (Sept. 2024 - May 2025) </span>
+
+Undergraduate Research Program in Statistics Mentor <span class="text-secondary"> (Jan. 2024 - Jun. 2024) </span>
+
+# Awards  {#awards}
+
+Outstanding Graduate Student Instructor Team Award Honorable Mention <span class="text-secondary"> (May 2025) </span>
+
+Michigan Student Symposium for Interdisciplinary Statistical Sciences Honorable Mention Oral Session Award <span class="text-secondary"> (Mar. 2025) </span>
