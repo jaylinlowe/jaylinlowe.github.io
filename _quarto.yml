@@ -1,6 +1,5 @@
 project:
   type: website
-  output-dir: docs
 
 website:
   title: "Jaylin Lowe"
@@ -34,7 +33,4 @@ format:
       gutter-width: 0px
       body-width: 950px
       margin-width: 350px
-      
-
-editor: visual
 

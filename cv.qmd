@@ -1,9 +1,0 @@
----
-title: "About"
----
-
-Put CV here eventually?
-
-```{r}
-1 + 1
-```
