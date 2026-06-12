@@ -1,6 +1,6 @@
 ---
 title: "Jaylin Lowe"
-image: department_picture.png
+image: department_picture2.png
 about: 
   template: trestles
   image-shape: round
@@ -29,6 +29,14 @@ M.A. in Statistics \| University of Michigan \| [2022-2025]{.text-secondary}
 B.A. in Statistics \| Carleton College \| [2017-2021]{.text-secondary}
 
 # Publications {#publications}
+
+#### **Leveraging Large Language Models to Improve Precision in Randomized Controlled Trials**
+
+\[Manuscript Under Review\]
+
+[Jaylin Lowe, Adam Sales, Johann Gagnon-Bartsch]{.text-secondary}
+
+<a href="files/arXiv_leveraging_paper.pdf" class="btn btn-primary" target="_blank">arXiv PDF</a>
 
 #### **Power Calculations for Randomized Controlled Trials with Auxiliary Observational Data**
 
@@ -66,11 +74,15 @@ Jaylin Lowe, [Adam Sales, Johann Gagnon-Bartsch]{.text-secondary}
 
 # Teaching {#teaching}
 
+STATS 449 - Topics in Biostatistics [(Jan. 2026 - Apr. 2026)]{.text-secondary}
+
+STATS 485 - Capstone Seminar [(Sept. 2025 - Dec. 2025)]{.text-secondary}
+
 STATS 604 - Statistical Practice [(Sept. 2024 - Dec. 2024)]{.text-secondary}
 
-STATS 470 - Introduction to the Design of Experiments [(Jan. 2024 - May 2024)]{.text-secondary}
+STATS 470 - Introduction to the Design of Experiments [(Jan. 2024 - Apr. 2024)]{.text-secondary}
 
-STATS 306 - Introduction to Statistical Computing [(Jan. 2023 - May 2023)]{.text-secondary}
+STATS 306 - Introduction to Statistical Computing [(Jan. 2023 - Apr. 2023)]{.text-secondary}
 
 STATS 250 - Introduction to Statistics and Data Science [(Sept. 2022 - Dec. 2022)]{.text-secondary}
 
@@ -83,6 +95,8 @@ Graduate Student Mentor to Graduate Student Instructors [(Sept. 2024 - May 2025)
 Undergraduate Research Program in Statistics Mentor [(Jan. 2024 - Jun. 2024)]{.text-secondary}
 
 # Awards {#awards}
+
+Outstanding Graduate Student Service Award [(May 2026)]{.text-secondary}
 
 Outstanding Graduate Student Instructor Team Award Honorable Mention [(May 2025)]{.text-secondary}
 
