@@ -14,15 +14,19 @@ about:
       href: mailto::jaylincl@umich.edu
 ---
 
-<p style="font-size: 18px;">Hello! I am a fourth-year PhD student in the Statistics Department at the University of Michigan advised by Johann Gagnon-Bartsch. My research interests are broadly in survey statistics and casual inference, particularly in integrating auxiliary observational data sets with randomized datasets. I am interested primarily in applications to the social sciences, particularly education. Outside of work, I enjoy board games, baking, and swimming.</p>
+<p style="font-size: 18px;">
+
+Hello! I am a fourth-year PhD student in the Statistics Department at the University of Michigan advised by Johann Gagnon-Bartsch. My research interests are broadly in survey statistics and casual inference, particularly in integrating auxiliary observational data sets with randomized datasets. I am interested primarily in applications to the social sciences, particularly education. Outside of work, I enjoy board games, baking, and swimming.
+
+</p>
 
 # Education
 
-PhD in Statistics \| University of Michigan \| [ 2022-Present ]{.text-secondary}
+PhD in Statistics \| University of Michigan \| [2022-Present]{.text-secondary}
 
-M.A. in Statistics \| University of Michigan \| [ 2022-2025 ]{.text-secondary}
+M.A. in Statistics \| University of Michigan \| [2022-2025]{.text-secondary}
 
-B.A. in Statistics \| Carleton College \| [ 2017-2021 ]{.text-secondary}
+B.A. in Statistics \| Carleton College \| [2017-2021]{.text-secondary}
 
 # Publications {#publications}
 
@@ -35,6 +39,14 @@ B.A. in Statistics \| Carleton College \| [ 2017-2021 ]{.text-secondary}
 <a href="files/edm_paper.pdf" class="btn btn-primary" target="_blank">PDF</a>   <a href="https://github.com/jaylinlowe/dRCTpower" class="btn btn-primary" target="_blank">R Shiny</a>
 
 # Talks and Posters {#talks_and_posters}
+
+#### Leveraging Large Language Models to Improve Precision in Randomized Controlled Trials
+
+[American Causal Inference Conference (May 2026)]{.text-secondary}
+
+Jaylin Lowe, [Adam Sales, Johann Gagnon-Bartsch]{.text-secondary}
+
+<a href="files/ACIC_poster.pdf" class="btn btn-primary" target="_blank">ACIC Poster</a>
 
 #### **Power Calculations for Randomized Controlled Trials with Auxiliary Observational Data**
 
@@ -54,24 +66,24 @@ B.A. in Statistics \| Carleton College \| [ 2017-2021 ]{.text-secondary}
 
 # Teaching {#teaching}
 
-STATS 604 - Statistical Practice [ (Sept. 2024 - Dec. 2024) ]{.text-secondary}
+STATS 604 - Statistical Practice [(Sept. 2024 - Dec. 2024)]{.text-secondary}
 
-STATS 470 - Introduction to the Design of Experiments [ (Jan. 2024 - May 2024) ]{.text-secondary}
+STATS 470 - Introduction to the Design of Experiments [(Jan. 2024 - May 2024)]{.text-secondary}
 
-STATS 306 - Introduction to Statistical Computing [ (Jan. 2023 - May 2023) ]{.text-secondary}
+STATS 306 - Introduction to Statistical Computing [(Jan. 2023 - May 2023)]{.text-secondary}
 
-STATS 250 - Introduction to Statistics and Data Science [ (Sept. 2022 - Dec. 2022) ]{.text-secondary}
+STATS 250 - Introduction to Statistics and Data Science [(Sept. 2022 - Dec. 2022)]{.text-secondary}
 
 # Service {#service}
 
-PhD Student Council Recruitment Committee Co-Chair [ (Sept. 2024 - Present) ]{.text-secondary}
+PhD Student Council Recruitment Committee Co-Chair [(Sept. 2024 - Present)]{.text-secondary}
 
-Graduate Student Mentor to Graduate Student Instructors [ (Sept. 2024 - May 2025) ]{.text-secondary}
+Graduate Student Mentor to Graduate Student Instructors [(Sept. 2024 - May 2025)]{.text-secondary}
 
-Undergraduate Research Program in Statistics Mentor [ (Jan. 2024 - Jun. 2024) ]{.text-secondary}
+Undergraduate Research Program in Statistics Mentor [(Jan. 2024 - Jun. 2024)]{.text-secondary}
 
 # Awards {#awards}
 
-Outstanding Graduate Student Instructor Team Award Honorable Mention [ (May 2025) ]{.text-secondary}
+Outstanding Graduate Student Instructor Team Award Honorable Mention [(May 2025)]{.text-secondary}
 
-Michigan Student Symposium for Interdisciplinary Statistical Sciences Honorable Mention Oral Session Award [ (Mar. 2025) ]{.text-secondary}
+Michigan Student Symposium for Interdisciplinary Statistical Sciences Honorable Mention Oral Session Award [(Mar. 2025)]{.text-secondary}
