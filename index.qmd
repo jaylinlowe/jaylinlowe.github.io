@@ -50,25 +50,31 @@ B.A. in Statistics \| Carleton College \| [2017-2021]{.text-secondary}
 
 #### Leveraging Large Language Models to Improve Precision in Randomized Controlled Trials
 
-[American Causal Inference Conference (May 2026]{.text-secondary}) and [Michigan Student Symposium for Interdisciplinary Statistical Sciences (March 2026)]{.text-secondary}
+[**Jaylin Lowe**, Adam Sales, Johann Gagnon-Bartsch]{.text-secondary}
 
-Jaylin Lowe, [Adam Sales, Johann Gagnon-Bartsch]{.text-secondary}
+[American Causal Inference Conference (May 2026]{.text-secondary})
+
+[Michigan Student Symposium for Interdisciplinary Statistical Sciences (March 2026)]{.text-secondary}
 
 <a href="files/ACIC_poster.pdf" class="btn btn-primary" target="_blank">ACIC Poster</a> <a href="files/mssiss_slides2.pdf" class="btn btn-primary" target="_blank">MSSISS Slides</a>
 
 #### **Power Calculations for Randomized Controlled Trials with Auxiliary Observational Data**
 
-[Michigan Student Symposium for Interdisciplinary Statistical Sciences (Feb 2025) and Joint Statistical Meetings (Aug 2024)]{.text-secondary}
+[**Jaylin Lowe**, Charlotte Mann, Jiaying Wang, Adam Sales, Johann Gagnon-Bartsch]{.text-secondary}
 
-[Jaylin Lowe, Charlotte Mann, Jiaying Wang, Adam Sales, Johann Gagnon-Bartsch]{.text-secondary}
+[Michigan Student Symposium for Interdisciplinary Statistical Sciences (Feb 2025) ]{.text-secondary}
 
-<a href="files/mssiss_slides.pdf" class="btn btn-primary" target="_blank">MSSISS Slides</a> <a href="files/jsm_poster_web.pdf" class="btn btn-primary" target="_blank">JSM Poster</a>
+[Joint Statistical Meetings (Aug 2024)]{.text-secondary}
+
+[Educational Data Mining (July 2024)]{.text-secondary}
+
+<a href="files/mssiss_slides.pdf" class="btn btn-primary" target="_blank">MSSISS Slides</a> <a href="files/jsm_poster_web.pdf" class="btn btn-primary" target="_blank">JSM Poster</a> <a href="files/edm_slides.pdf" class="btn btn-primary" target="_blank">EDM Slides</a>
 
 #### **Tools for Planning and Analyzing Randomized Controlled Trials & A/B Tests**
 
-[Educational Data Mining, Half Day Tutorial (July 2024)]{.text-secondary}
+[Adam Sales, Johann Gagnon-Bartsch, Duy Pham, Charlotte Mann, **Jaylin Lowe**]{.text-secondary}
 
-[Adam Sales, Johann Gagnon-Bartsch, Duy Pham, Charlotte Mann, Jaylin Lowe]{.text-secondary}
+[Educational Data Mining, Half Day Tutorial (July 2024)]{.text-secondary}
 
 <a href="files/edm_tutorial.pdf" class="btn btn-primary" target="_blank">Slides</a>
 
