@@ -16,7 +16,7 @@ about:
 
 <p style="font-size: 18px;">
 
-Hello! I am a fourth-year PhD student in the Statistics Department at the University of Michigan advised by Johann Gagnon-Bartsch. My research interests are broadly in survey statistics and casual inference, particularly in integrating auxiliary observational data sets with randomized datasets. I am interested primarily in applications to the social sciences, particularly education. Outside of work, I enjoy board games, baking, and swimming.
+Hello! I am a fifth-year PhD student in the Statistics Department at the University of Michigan advised by Johann Gagnon-Bartsch. My research interests are broadly in survey statistics and casual inference, particularly in integrating auxiliary observational data sets with randomized datasets. I am interested primarily in applications to the social sciences, particularly education. Outside of work, I enjoy board games, baking, and swimming.
 
 </p>
 
@@ -50,11 +50,11 @@ B.A. in Statistics \| Carleton College \| [2017-2021]{.text-secondary}
 
 #### Leveraging Large Language Models to Improve Precision in Randomized Controlled Trials
 
-[American Causal Inference Conference (May 2026)]{.text-secondary}
+[American Causal Inference Conference (May 2026]{.text-secondary}) and [Michigan Student Symposium for Interdisciplinary Statistical Sciences (March 2026)]{.text-secondary}
 
 Jaylin Lowe, [Adam Sales, Johann Gagnon-Bartsch]{.text-secondary}
 
-<a href="files/ACIC_poster.pdf" class="btn btn-primary" target="_blank">ACIC Poster</a>
+<a href="files/ACIC_poster.pdf" class="btn btn-primary" target="_blank">ACIC Poster</a> <a href="files/mssiss_slides2.pdf" class="btn btn-primary" target="_blank">MSSISS Slides</a>
 
 #### **Power Calculations for Randomized Controlled Trials with Auxiliary Observational Data**
 
@@ -62,7 +62,7 @@ Jaylin Lowe, [Adam Sales, Johann Gagnon-Bartsch]{.text-secondary}
 
 [Jaylin Lowe, Charlotte Mann, Jiaying Wang, Adam Sales, Johann Gagnon-Bartsch]{.text-secondary}
 
-<a href="files/mssiss_slides.pdf" class="btn btn-primary" target="_blank">MSSISS Slides</a>   <a href="files/jsm_poster_web.pdf" class="btn btn-primary" target="_blank">JSM Poster</a>
+<a href="files/mssiss_slides.pdf" class="btn btn-primary" target="_blank">MSSISS Slides</a> <a href="files/jsm_poster_web.pdf" class="btn btn-primary" target="_blank">JSM Poster</a>
 
 #### **Tools for Planning and Analyzing Randomized Controlled Trials & A/B Tests**
 
