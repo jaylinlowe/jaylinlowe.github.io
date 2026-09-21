@@ -32,7 +32,11 @@ B.A. in Statistics \| Carleton College \| [2017-2021]{.text-secondary}
 
 #### **Leveraging Large Language Models to Improve Precision in Randomized Controlled Trials**
 
-\[Manuscript Under Review\]
+\[Accepted, forthcoming\]
+
+Zeitschrift für Psychologie
+
+Special issue: Machine Learning and Artificial Intelligence for Causal Inference in the Behavioral and Social Sciences: Methodological Advances and Applications
 
 [Jaylin Lowe, Adam Sales, Johann Gagnon-Bartsch]{.text-secondary}
 
@@ -62,7 +66,7 @@ B.A. in Statistics \| Carleton College \| [2017-2021]{.text-secondary}
 
 [**Jaylin Lowe**, Charlotte Mann, Jiaying Wang, Adam Sales, Johann Gagnon-Bartsch]{.text-secondary}
 
-[Michigan Student Symposium for Interdisciplinary Statistical Sciences (Feb 2025) ]{.text-secondary}
+[Michigan Student Symposium for Interdisciplinary Statistical Sciences (Feb 2025)]{.text-secondary}
 
 [Joint Statistical Meetings (Aug 2024)]{.text-secondary}
 
