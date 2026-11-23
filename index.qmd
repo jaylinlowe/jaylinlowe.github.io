@@ -56,11 +56,13 @@ Special issue: Machine Learning and Artificial Intelligence for Causal Inference
 
 [**Jaylin Lowe**, Adam Sales, Johann Gagnon-Bartsch]{.text-secondary}
 
+[Women in Statistics and Data Science Conference (October 2026]{.text-secondary})
+
 [American Causal Inference Conference (May 2026]{.text-secondary})
 
 [Michigan Student Symposium for Interdisciplinary Statistical Sciences (March 2026)]{.text-secondary}
 
-<a href="files/ACIC_poster.pdf" class="btn btn-primary" target="_blank">ACIC Poster</a> <a href="files/mssiss_slides2.pdf" class="btn btn-primary" target="_blank">MSSISS Slides</a>
+<a href="files/wsds_poster.pdf" class="btn btn-primary" target="_blank">WSDS Poster</a> <a href="files/ACIC_poster.pdf" class="btn btn-primary" target="_blank">ACIC Poster</a> <a href="files/mssiss_slides2.pdf" class="btn btn-primary" target="_blank">MSSISS Slides</a>
 
 #### **Power Calculations for Randomized Controlled Trials with Auxiliary Observational Data**
 
